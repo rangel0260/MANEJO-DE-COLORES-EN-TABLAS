@@ -1,0 +1,13 @@
+{
+    "name": "MANEJO_DE_COLORES_EN_TABLAS",
+    "version": "1.0.0",
+    "main": "path/to/main.css",
+    "ignore": [
+        ".jshintrc",
+        "**/*.txt"
+    ],
+    "dependencies": {
+    },
+    "devDependencies": {
+    }
+}
